@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Sinhg</h1>
 <h3 align="center">A passionate TO Learn Everthing</h3>
 
-<img align="right"alt="coding"width="400"src="![image](https://github.com/AbhishekSingh20222/AbhishekSingh20222/assets/110971331/13313064-b6f0-4184-b8b4-38487c708832)">
+<img align="right"alt="coding"width="400"src="https://github.com/AbhishekSingh20222/AbhishekSingh20222/assets/110971331/13313064-b6f0-4184-b8b4-38487c708832">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisheksingh20222&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheksingh20222" /> </p>
 
